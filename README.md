@@ -8,6 +8,9 @@ Topics Covered:
 - Loops
 - Functions
 - Number problems
+- list
+- dictionary
+- set
 
 Goal:
 
