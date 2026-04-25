@@ -8,10 +8,10 @@ Topics Covered:
 - Loops
 - Functions
 - Number problems
-- list
-- dictionary
-- set
-
+- List
+- Dictionary
+- Set
+- String
 Goal:
 
 To improve problem-solving skills and prepare for placements.
